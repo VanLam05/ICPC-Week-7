@@ -83,7 +83,7 @@ void solve()
 
     for (int i = 1; i <= n; i++)
     {
-        // nếu không tìm thấy b[i] trong mảng a
+        // nếu không tồn tại phần tử b[i] trong a
         if (ind[b[i]].empty())
         {
             no return;
