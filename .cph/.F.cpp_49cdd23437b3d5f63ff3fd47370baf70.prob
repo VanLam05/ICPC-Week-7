@@ -1,1 +1,0 @@
-{"name":"Local: F","url":"/Users/apple/Documents/CodeC++/icpcw7/F.cpp","tests":[{"id":1725154693915,"input":"5\n1 1\n1\n1 2\n1 2\n1 1\n2\n3 3\n1 1 1\n1 1 1\n1 1 1\n3 3\n1 1 1\n1 2 0\n1 0 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/apple/Documents/CodeC++/icpcw7/F.cpp","group":"local","local":true}
