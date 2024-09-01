@@ -1,3 +1,6 @@
+// công thức dp đúng nhưng sub tràn số
+// dùng py đi
+
 #include <bits/stdc++.h>
 using namespace std;
 
