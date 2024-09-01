@@ -93,7 +93,7 @@ void solve()
         ind[b[i]].pop();
 
         int tmp = get(1, 1, n, 1, j);
-        // nếu tồn tại a[k] mà k < j && a[k] < a[j]
+        // nếu tồn tại a[k] sao cho k < j && a[k] < a[j]
         if (tmp != b[i])
         {
             no return;
